@@ -1,1 +1,1 @@
-# Dice-Game
+First javascript project.
